@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" FizzBuzz
+""" FizzBuzzi...
 """
 import sys
 
